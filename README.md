@@ -29,7 +29,9 @@ The goals for this challenge are for you to:
     Average Fare per Driver
 #### SUMMARY DATAFRAME
 
+[final_summary_df.zip](https://github.com/efuen0077/PyBer_Analysis/files/4463976/final_summary_df.zip)
 
+[PyBer-Challenge.ipynb.zip](https://github.com/efuen0077/PyBer_Analysis/files/4463977/PyBer-Challenge.ipynb.zip)
 
 #### Part 2: Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
     Plot the sum of the fares for each city type.
