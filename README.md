@@ -27,12 +27,10 @@ The goals for this challenge are for you to:
     Total Fares
     Average Fare per Ride
     Average Fare per Driver
-##### To create the summary DataFrame, follow these steps:
+#### SUMMARY DATAFRAME
 
-    Get the total rides, total drivers, and total fares for each city type using the groupby() function on the city type using     the merged DataFrame or separate DataFrames.
-    Calculate the average fare per ride and the average fare per driver by city type.
-    Delete the index name.
-    Create the summary DataFrame with the appropriate columns and apply formatting where appropriate.
+
+
 #### Part 2: Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
     Plot the sum of the fares for each city type.
     
