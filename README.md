@@ -33,9 +33,6 @@ The goals for this challenge are for you to:
 
 [PyBer-Challenge.ipynb.zip](https://github.com/efuen0077/PyBer_Analysis/files/4463977/PyBer-Challenge.ipynb.zip)
 
-### Analysis for Part I:
-
-
 #### Part 2: Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
     Plot the sum of the fares for each city type.
     
@@ -68,5 +65,19 @@ The goals for this challenge are for you to:
 ###### Line Chart
 ![Fares_by_City_Type](https://user-images.githubusercontent.com/62089134/79089252-58b2c300-7cfa-11ea-87a7-7ff90824903d.png)
 
-### Analysis for Part II:
+### Analysis for Parts I & II:
+#### Analysis for Part I
+The data displayed in the DataFrame from Part I represents the total rides, total drivers, total fares, average fare per ride, and average fare per driver (where "fare" is in USD) with respect to the type of city that PyBer is providing services for (i.e. Rural, Suburban, and Urban).
+
+From the Dataframe, we can see that PyBer is most popular in Urban cities (1,625 total rides) and least popular in Rural cities (125 rides). To go along with this data, our DataFrame shows us that there are more drivers in the Urban cities (2,405 total drivers) as opposed to Rural (78 total drivers) or Suburban cities (490 total drivers).
+
+It's quite interesting to see that the average fare per ride is cheapest in Urban cities ($24.53) and most expensive in Rural cities ($34.62). This same trend occurs with the average fare per driver. In other words, Urban city drivers obtain an smaller average fare ($16.57) and Rural city drivers obtain a significantly larger average fare ($55.49). One can also make this distinction when looking at the "Total Fares" column.
+
+What does this data mean? One can say that the number of rides is dependent on the cost of the ride. In other words, more people are willing to pay for a PyBer ride IF the cost of the ride is cheaper. This is one major reason why Urban cities use PyBer more often than other city types.
+
+#### Analysis for Part II
+The line chart that we created justifies the data presented in the DataFrame from part I. On other thing that is very important to point out, especially for this part of the challenge, is that the date has quite the effect on when PyBer makes the most money in each city type.
+
+From the line chart, we can see that the end of February is a GREAT time for PyBer to make money among ALL city types. Of course, this is something that we can point out when we are only looking at the months of January, February, March, and April.
+
 
