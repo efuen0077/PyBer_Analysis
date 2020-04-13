@@ -27,7 +27,7 @@ The goals for this challenge are for you to:
     Total Fares
     Average Fare per Ride
     Average Fare per Driver
-#### SUMMARY DATAFRAME
+#### *****SUMMARY DATAFRAME *****
 
 [final_summary_df.zip](https://github.com/efuen0077/PyBer_Analysis/files/4463976/final_summary_df.zip)
 
@@ -59,13 +59,13 @@ The goals for this challenge are for you to:
         Make the figure size large enough so it’s not too small.
 #### Plot of DataFrame --> Fares by City Type
 
-###### Complete Code for this challenge
+###### ***** Complete Code for this challenge *****
 [PyBer-Challenge.ipynb 2.zip](https://github.com/efuen0077/PyBer_Analysis/files/4467837/PyBer-Challenge.ipynb.2.zip)
 
-###### Line Chart
+###### ***** Line Chart *****
 ![Fares_by_City_Type](https://user-images.githubusercontent.com/62089134/79089252-58b2c300-7cfa-11ea-87a7-7ff90824903d.png)
 
-### Analysis for Parts I & II:
+### ***** Analysis for Parts I & II: *****
 #### Analysis for Part I
 The data displayed in the DataFrame from Part I represents the total rides, total drivers, total fares, average fare per ride, and average fare per driver (where "fare" is in USD) with respect to the type of city that PyBer is providing services for (i.e. Rural, Suburban, and Urban).
 
