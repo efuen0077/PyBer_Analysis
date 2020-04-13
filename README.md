@@ -33,6 +33,9 @@ The goals for this challenge are for you to:
 
 [PyBer-Challenge.ipynb.zip](https://github.com/efuen0077/PyBer_Analysis/files/4463977/PyBer-Challenge.ipynb.zip)
 
+### Analysis for Part I:
+
+
 #### Part 2: Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
     Plot the sum of the fares for each city type.
     
@@ -57,4 +60,13 @@ The goals for this challenge are for you to:
         Add x- and y-axes labels according to the final figure.
         Save the figure to the “analysis” folder.
         Make the figure size large enough so it’s not too small.
-### Analysis
+#### Plot of DataFrame --> Fares by City Type
+
+###### Complete Code for this challenge
+[PyBer-Challenge.ipynb 2.zip](https://github.com/efuen0077/PyBer_Analysis/files/4467837/PyBer-Challenge.ipynb.2.zip)
+
+###### Line Chart
+![Fares_by_City_Type](https://user-images.githubusercontent.com/62089134/79089252-58b2c300-7cfa-11ea-87a7-7ff90824903d.png)
+
+### Analysis for Part II:
+
